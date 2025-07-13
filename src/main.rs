@@ -9,7 +9,7 @@ use serenity::prelude::*;
 
 #[tokio::main]
 async fn main() {
-    let token = "MTEwNDExNTMyNTkzMjQwNDgyNw.G64G-w.zuv1bYNIPrJsTjWlys0zNpq8phUZNksteT7ap4";
+    let token = "your_token";
 
     let intents =
         GatewayIntents::GUILDS | GatewayIntents::GUILD_MEMBERS | GatewayIntents::GUILD_MESSAGES | GatewayIntents::MESSAGE_CONTENT | GatewayIntents::GUILD_MODERATION; 
