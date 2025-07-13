@@ -1,4 +1,4 @@
-![alt text](https://github.com/ArMaGeDDoN-SS/AntiNuke-Bot/images/banner.png)
+![alt text](https://github.com/ArMaGeDDoN-SS/AntiNuke-Bot/blob/main/images/banner.png)
 
 <h1 align="center"> Atomic Security - AntiNuke Bot </h1>
 
