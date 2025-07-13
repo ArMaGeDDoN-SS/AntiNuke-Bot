@@ -2,7 +2,7 @@
 
 <h1 align="center"> Atomic Security - AntiNuke Bot </h1>
 
-![Discord](https://img.shields.io/discord/1216704766491623455?style=for-the-badge&logo=discord&label=discord&color=111f63)
+[![Discord](https://img.shields.io/discord/1216704766491623455?style=for-the-badge&logo=discord&label=discord&color=111f63)](https://img.shields.io/discord/1216704766491623455?style=for-the-badge&logo=discord&label=Discord&color=0a154d&link=https%3A%2F%2Fdiscord.gg%2FN3XG9FH2v9)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ArMaGeDDoN-SS/AntiNuke-Bot?style=for-the-badge&logo=rust&color=631124)
 
 
