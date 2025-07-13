@@ -2,9 +2,10 @@
 
 <h1 align="center"> Atomic Security - AntiNuke Bot </h1>
 
+![Discord](https://img.shields.io/discord/1216704766491623455?style=for-the-badge&logo=discord&label=discord&color=111f63)
+
 <p align="center" dir="auto">Atomic Security is a discord bot designed to protect the server from nuke bots, as well as unauthorized editing of the server (changing channels, roles, etc.). The bot is easily configured through the configuration file.</p> 
 
-![Discord](https://img.shields.io/discord/1216704766491623455?style=for-the-badge&logo=discord&label=discord&color=111f63)
 <p align="center" dir="auto">
   <b>NOTE:</b> <i>The bot DOES NOT have any commands, and the configuration option is not finalized: the server_config.json file does not affect the bot's operation. In the future, this will be fixed, and you will be able to configure the bot in more detail: issue any other punishment for unauthorized server changes (except for a ban), for example.</i>
 </p>
